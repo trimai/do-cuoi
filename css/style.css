@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+*{box-sizing: border-box}
+body{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";font-size: 16px;color: #666666;margin: 0
+}
+.img-100{
+	width: 100%;height: auto
+}
+.banner{
+	width: 100%;min-height: 400px;background-color: #B9ADA3
+}
+.menu{
+	width: 100%;height: 50px;background-color: #B9ADA3;line-height: 50px;text-align: center
+}
+.menu a{
+	text-decoration: none;padding: 10px 20px;color: #5E5453;font-weight: bold;font-size: 17px
+}
+.menu a:hover{
+	color: white
+}
+main{
+	width: 100%;min-height: 500px
+}
+.text-center{
+	text-align: center
+}
+.text-primary{
+	color: #444044
+}
+.w-25{
+	width: 25%;padding: 15px;float: left
+}
+.vien{
+	border: 1px solid #B9ADA3;min-height: 200px;border-radius: 50px 10px 10px 10px;text-align: center;background-color: #F2F1F0
+}
+.bo-goc{
+border-radius: 50px 10px 0px 0px	
+}
+.gia-thue{
+	font-weight: bold;color: #2E2E2E
+}
